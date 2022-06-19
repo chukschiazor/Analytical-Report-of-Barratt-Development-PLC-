@@ -1,0 +1,1 @@
+# Analytical-Report-of-Barratt-Development-PLC-
