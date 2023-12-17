@@ -1,4 +1,4 @@
-# Analytical-Report-of-Barratt-Development-PLC-
+# Leveraging Analytical Tools for Barratt Development PLC's Strategic Investment Decision
 
 Barratt Development Plc, established in 1958, is one of the world's largest residential property development firms. Since 1968, the company has been listed on the London Stock Exchange, and it is now a major component of the FTSE 100 index. The aim of this report is to provide sufficient advice on Barratt as a good company for investment based on existing data and to provide prospective investors with an understanding of the company's overall financial performance. To accomplish this, descriptive, time series, and fundamental analysis were carried.
 
